@@ -64,5 +64,8 @@ This application will seek to mimic a few of the functions of a SIRI application
 #### **My Role**
 My role was creating the application start to finish.
 
+**Comments**
+- Link to [Updated Portfolio](https://samsmeyer17.github.io/Responsive-Portfolio/portfolio.html)
+
 
 
