@@ -16,19 +16,36 @@ This application will seek to mimic a few of the functions of a SIRI application
     - Then it runs the input through the omdb api
     - It the displays the title, release year, critic ratings, what the movie is rated, country, actors, plot and language
 - Lastly there is a function that reads a text file and runs whatever is written into that text file in the form of a pair of the arguments run through each function.
+- If for all the function LIRI doesn't know what it is, it will tell you
 
 #### **How To Run The App**
 1. Because the app is run through the command line, you must open your terminal(Mac) or gitbash/powershell(PC).
 2. Clone the repository from GitHub
 3. Open the app in your command line
 4. To initiate the song search:
-    1. In your command line, type: node liri.js <song name>
+    1. In your command line, type: node liri.js spotify-this-song '<songname>'
 5. To initiate the movie search:
-    1. In your command line, type: node liri.js <movie name>
+    1. In your command line, type: node liri.js movie-this '<moviename>'
 6. To initiate the concert search:
-    1. In your command line, type: node liri.js <artist name>
+    1. In your command line, type: node liri.js concert-this '<artistname>'
 7. To initiate the text search:
     1. In your command line, type: node liri.js do-what-it-says
+
+#### **Screenshots for use cases**
+- ##### **Navigation to application**
+    - ![Navigation to application](../liri-node-app/images/navigationtofolder.png)
+
+- ##### **Song Search** 
+    - ![Song Search](../liri-node-app/images/song_search_screenshot.png)
+
+- ##### **Movie Search**
+    - ![Movie Search](../liri-node-app/images/moviesearchscreenshot.png)
+
+- ##### **Concert Schedule**
+    - ![Concert Schedule](../liri-node-app/images/concert_search_screenshot.png)
+
+- ##### **Do What It Says**
+    - ![Do What It Says](../liri-node-app/images/dowhatitsaysscreenshot.png)
 
 #### **Technologies Used**
 - Node.js
