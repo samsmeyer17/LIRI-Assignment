@@ -33,19 +33,19 @@ This application will seek to mimic a few of the functions of a SIRI application
 
 #### **Screenshots for use cases**
 - ##### **Navigation to application**
-    - ![Navigation to application](../liri-node-app/images/navigationtofolder.png)
+    - ![Navigation to application](/images/navigationtofolder.png)
 
 - ##### **Song Search** 
-    - ![Song Search](../liri-node-app/images/song_search_screenshot.png)
+    - ![Song Search](/images/song_search_screenshot.png)
 
 - ##### **Movie Search**
-    - ![Movie Search](../liri-node-app/images/moviesearchscreenshot.png)
+    - ![Movie Search](/images/moviesearchscreenshot.png)
 
 - ##### **Concert Schedule**
-    - ![Concert Schedule](../liri-node-app/images/concert_search_screenshot.png)
+    - ![Concert Schedule](/images/concert_search_screenshot.png)
 
 - ##### **Do What It Says**
-    - ![Do What It Says](../liri-node-app/images/dowhatitsaysscreenshot.png)
+    - ![Do What It Says](/images/dowhatitsaysscreenshot.png)
 
 #### **Technologies Used**
 - Node.js
